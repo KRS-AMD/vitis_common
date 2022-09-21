@@ -2,6 +2,10 @@
 Changelog for package vitis_common
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.5.0 (2022-09-21)
+------------------
+* Ship headers without ROS_VITIS to enable native builds
+
 0.4.0 (2022-03-24)
 ------------------
 * Release 0.4.0
